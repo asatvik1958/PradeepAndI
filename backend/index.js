@@ -12,4 +12,5 @@ app.listen(port, () => {
   console.log(`test 2`);
   console.log(`test 24`);
   console.log('test 3')
+  console.log(`test 2`);
 })
