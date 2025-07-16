@@ -11,4 +11,6 @@ app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
   console.log(`test 24`);
   console.log('test 3')
+  console.log("HI");
+  console.log("Hello");
 })
