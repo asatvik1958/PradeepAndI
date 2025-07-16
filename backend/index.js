@@ -7,10 +7,10 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`another tidee`)
-    console.log('tsts');
+    console.log(`another line`)
   console.log(`Example app listening on port ${port}`)
+  console.log(`test 24`);
+  console.log('test 3')
   console.log("HI");
   console.log("Hello");
-  
 })
